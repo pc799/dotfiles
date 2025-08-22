@@ -106,4 +106,6 @@ source $ZSH/oh-my-zsh.sh
 # # pywal
 (cat ~/.cache/wal/sequences &)
 source ~/.cache/wal/colors-tty.sh
+
+# dotfiles
 alias dotfiles='/usr/bin/git --git-dir=/home/pc799/.dotfiles/ --work-tree=/home/pc799'

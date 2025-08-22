@@ -1,0 +1,21 @@
+@import url("file:///home/pc799/.cache/wal/colors-waybar.css");
+
+/* Whole Wofi window */
+window {
+    background-color: @background;
+    color: @foreground;
+}
+
+/* Input bar */
+#input {
+    background-color: @background;
+    color: @foreground;
+    border: 1px solid @color4;
+}
+
+/* Selected entry */
+#entry:selected {
+    background-color: @color4; /* accent */
+    color: @background;
+}
+
