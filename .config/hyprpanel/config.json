@@ -441,5 +441,8 @@
     }
   },
   "bar.clock.format": "%a, %b %d  %I:%M %p",
-  "bar.battery.hideLabelWhenFull": false
+  "bar.battery.hideLabelWhenFull": false,
+  "theme.osd.orientation": "vertical",
+  "theme.osd.location": "right",
+  "notifications.position": "top right"
 }
