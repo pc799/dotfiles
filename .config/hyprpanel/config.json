@@ -3,7 +3,7 @@
     "/"
   ],
   "scalingPriority": "hyprland",
-  "theme.font.name": "Ubuntu Nerd Font",
+  "theme.font.name": "JetBrainsMono Nerd Font Mono",
   "theme.font.label": "JetBrainsMono Nerd Font Mono",
   "menus.clock.weather.enabled": false,
   "theme.bar.floating": false,
@@ -444,5 +444,6 @@
   "bar.battery.hideLabelWhenFull": false,
   "theme.osd.orientation": "vertical",
   "theme.osd.location": "right",
-  "notifications.position": "top right"
+  "notifications.position": "top right",
+  "theme.font.size": "12pt"
 }
